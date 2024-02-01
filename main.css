@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.account{
+    background: red;
+}
+.main{
+    background: green;
+}
+.player{
+    background: blue;
+}

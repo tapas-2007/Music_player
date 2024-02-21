@@ -42,10 +42,16 @@ body{
     color: snow;
 }
 #container > .main{
-    display: flex;
-    align-items: center;
-    justify-content: center;
     width: 60%;
+}
+.main .imgs{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+.main .img{
+    width: 100px;
+    height: 125px;
 }
 #container > .player{
     display: flex;

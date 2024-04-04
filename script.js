@@ -44,7 +44,7 @@ var x = document.getElementById("login");
         var username = document.getElementById('logEmail').value;
         var password = document.getElementById('logPassword').value;
       
-        if (username === 'tapusoni27@gmail.com' && password === 'Tp#1972007') {
+        if (username === 'tapusoni27@gmail.com' && password === 'Tp#1569') {
           // Redirect to the dashboard page on successful login
           window.location.href = 'main.html';
         } else {
